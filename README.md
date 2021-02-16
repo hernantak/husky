@@ -14,7 +14,6 @@ For Husky instructions and tutorials, please see [Robots/Husky](http://wiki.ros.
 To create a custom Husky description or simulation, please fork [husky_customization](https://github.com/husky/husky_customization).
 
 husky_desktop
-=============
 
 Desktop ROS packages for the Clearpath Husky, which may pull in graphical dependencies.
 
@@ -40,3 +39,5 @@ Simulator ROS packages for the Clearpath Husky.
  - husky_gazebo : Gazebo plugin definitions and extensions to the robot URDF.
 
 For Husky instructions and tutorials, please see http://wiki.ros.org/Robots/Husky
+=======
+# husky
